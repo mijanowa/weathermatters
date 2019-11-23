@@ -1,2 +1,1 @@
-# https://mijanowa.github.io/weathersite.github.io/
- 
+# https://mijanowa.github.io/weathersite/
