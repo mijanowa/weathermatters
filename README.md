@@ -1,3 +1,2 @@
 # Weather site
- Using Open Weather Map API
-# https://mijanowa.github.io/weathersite/
+ Using Open Weather Map API https://mijanowa.github.io/weathersite/
